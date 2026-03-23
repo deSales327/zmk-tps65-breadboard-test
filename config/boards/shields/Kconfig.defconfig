@@ -1,0 +1,9 @@
+if SHIELD_TPS65_TRACKPAD
+
+config I2C
+	default y
+      
+config ZMK_POINTING
+	default y
+
+endif

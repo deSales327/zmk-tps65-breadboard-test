@@ -1,0 +1,6 @@
+---
+include:
+  - board: nice_nano
+    shield: tps65_trackpad
+  - board: nice_nano
+    shield: settings_reset

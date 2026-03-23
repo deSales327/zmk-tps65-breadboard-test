@@ -1,0 +1,9 @@
+file_format: "1"
+id: tps65_trackpad
+name: TPS65 Trackpad
+type: shield
+url: https://github.com/deSales327/zmk-tps65-breadboard-test
+requires: [pro_micro]
+features:
+  - keys
+  - pointer
