@@ -24,7 +24,9 @@
     };
 };
 
-tps65_listener {
-    compatible = "zmk,input-listener";
-    device = <&tps65>;
+/ {
+    tps65_listener {
+        compatible = "zmk,input-listener";
+        device = <&tps65>;
+    };
 };
