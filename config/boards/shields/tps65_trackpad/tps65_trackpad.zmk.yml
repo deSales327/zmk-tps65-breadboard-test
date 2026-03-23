@@ -5,5 +5,4 @@ type: shield
 url: https://github.com/deSales327/zmk-tps65-breadboard-test
 requires: [pro_micro]
 features:
-  - keys
   - pointer
